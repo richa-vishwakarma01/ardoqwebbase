@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="WEB_Automation" />
+        <module name="Web-Automation-master 2" />
+        <module name="WEBAutomation" />
+        <module name="BackbaseWeb" />
+        <module name="Ardoqweb" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
